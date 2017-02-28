@@ -1,6 +1,11 @@
 ul li a {
   margin: 0;
   padding: 0;
+  text-align: center;
+  align-content: center;
+  float: none;
+  vertical-align: middle;
+  display: block;
 }
 
 
@@ -33,7 +38,8 @@ ul li a {
   background-color: white;
   width: inherit;
   height: inherit;
-
+  align-content: center;
+  margin: 0 auto;
 
 }
 .o:after {
@@ -43,6 +49,7 @@ ul li a {
   width: inherit;
   height: inherit;
   align-content: center;
+  margin: 0 auto;
 
 }
 
